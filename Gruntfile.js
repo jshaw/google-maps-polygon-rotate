@@ -16,7 +16,8 @@ module.exports = function (grunt) {
             'src/google.maps.LatLng.rotate.js',
             'src/google.maps.Point.rotate.js',
             'src/google.maps.Polygon.getCenter.js',
-            'src/google.maps.Polygon.rotate.js'
+            'src/google.maps.Polygon.rotate.js',
+            'src/google.maps.Polyline.rotate.js'
           ]
         }
       }
