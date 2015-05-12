@@ -1,6 +1,7 @@
 /**
  * google.maps.Polyline.rotate() - Rotate a google.maps.Polyline relative to a google.maps.LatLng
  * @author Ahmad Nassri <ahmad@ahmadnassri.com> (http:/www.ahmadnassri.com/)
+ * @updated Jordan Shaw — http://jordanshaw.com
  * @repository https://github.com/ahmadnassri/google-maps-rotate
  * @license MIT
  *
