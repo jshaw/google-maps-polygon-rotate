@@ -33,5 +33,5 @@ google.maps.Polyline.prototype.rotate = function (angle, latLng, map) {
     coords[index] = projection.fromPointToLatLng(pixelCoord);
   });
 
-  this.setPaths(coords);
+  this.setPath(coords);
 };
